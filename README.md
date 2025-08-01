@@ -26,7 +26,7 @@
 
 ## **⚒️ 사용 언어 및 툴**
 - **Frontend : React, Next.js, Axios, Cheerio**
-- **Backend : OpenAI API (ChatGPT, gpt-3.5-turbo):**
+- **Backend : OpenAI API (ChatGPT, gpt-3.5-turbo)**
 - **Infra: Vercel**
 
 <br><br>
@@ -50,6 +50,6 @@
 ---
 
 | 요약 완료 |
-|:-:|:-:|
+|:-:|
 | <img width="1663" height="883" alt="요약 완료" src="https://github.com/user-attachments/assets/9a9970f6-3194-4043-8c69-19c5d58cc65e" /> |
 
