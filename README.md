@@ -7,7 +7,7 @@
 <br><br>
 
 ## 🗳️ 선정 이유
-- React와 Next.js를 처음 공부해보면서, 이 전에 해보고 싶었던 크롤링과 Chat GPT API를 사용했습니다.
+- React와 Next.js를 처음 공부해보면서, 이 전에 해보고 싶었던 크롤링과 Chat GPT API를 사용하고자 시작했습니다. 
 
 <br><br>
 
