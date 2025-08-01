@@ -25,8 +25,9 @@
 <br><br>
 
 ## **⚒️ 사용 언어 및 툴**
-- **React**
-- **Next.js**
+**Frontend : React, Next.js, Axios, Cheerio**
+**Backend : OpenAI API (ChatGPT, gpt-3.5-turbo):**
+**Infra: Vercel**
 
 <br><br>
 
