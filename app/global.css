@@ -42,6 +42,10 @@ button {
   width: 5rem;
 }
 
+#newsHead {
+  color: rgb(41, 40, 37);
+}
+
 #resultContainer {
   margin-top: 5rem;
 }
