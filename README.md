@@ -51,5 +51,5 @@
 
 | 요약 완료 |
 |:-:|
-| <img width="1663" height="883" alt="요약 완료" src="https://github.com/user-attachments/assets/9a9970f6-3194-4043-8c69-19c5d58cc65e" /> |
+| <img width="1207" height="852" alt="요약완료2" src="https://github.com/user-attachments/assets/c87eb815-67a7-40cc-bf49-13a9af6b8709" /> |
 
